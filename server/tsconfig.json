@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "noImplicitAny": true,
+      "forceConsistentCasingInFileNames": true,
+      "strict": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "sourceMap": true,
+      "module": "NodeNext",
+      "moduleResolution": "NodeNext"
+
+    },
+  }
